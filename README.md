@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **skn8454@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PauGO0KBH82-03MHVWsaLchnoni7VVPt/view?usp=sharing](https://drive.google.com/file/d/1PauGO0KBH82-03MHVWsaLchnoni7VVPt/view?usp=sharing)
+- 📄 Know about my experiences [My_Portfolio](https://kamal-nayan-dev.vercel.app/)
 
 - ⚡ Fun fact **I think I am Funny!**
 
