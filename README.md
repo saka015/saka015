@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **ReactJs , NodeJs , MongoDB**
+- 💬 Ask me about **Javascript/Typescript , ReactJs/NextJs , NodeJs , MongoDB , RestAPI**
 
 - 📫 How to reach me **skn8454@gmail.com**
 
