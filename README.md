@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **Javascript/Typescript , ReactJs/NextJs , NodeJs , MongoDB , RestAPI**
 
-- 📫 iOnnect with me **skn8454@gmail.com**
+- 📫 Connect with me **skn8454@gmail.com**
 
 - 📄 Know about my experiences [My_Portfolio](https://kamal-nayan-dev.vercel.app/)
 
