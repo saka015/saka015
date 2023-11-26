@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kamal Nayan</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-- 🌱 I’m currently working  **MERN** **Stack**
+- 🌱 I’m currently working  MERN Stack
 
 - 💬 Ask me about **Javascript/Typescript , ReactJs/NextJs , NodeJs , MongoDB , RestAPI**
 
