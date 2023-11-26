@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kamal Nayan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-- 🌱 I’m currently learning **MERN Stack**
+<h3 align="center">A passionate Full Stack Developer from India</h3>
+- 🌱 I’m currently working  **MERN Stack**
 
 - 💬 Ask me about **Javascript/Typescript , ReactJs/NextJs , NodeJs , MongoDB , RestAPI**
 
-- 📫 How to reach me **skn8454@gmail.com**
+- 📫 iOnnect with me **skn8454@gmail.com**
 
 - 📄 Know about my experiences [My_Portfolio](https://kamal-nayan-dev.vercel.app/)
 
-- ⚡ Fun fact **I think I am Funny!**
 
 <img style=" margin-bottom: 25px;" align="right" alt="code" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saka015&label=Profile%20views&color=0e75b6&style=flat" alt="saka015" /> </p>
