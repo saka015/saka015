@@ -6,7 +6,7 @@
 
 - 📫 Connect with me **skn8454@gmail.com**
 
-- 📄 Know about my experiences [My_Portfolio](https://kamal-nayan-dev.vercel.app/)
+- 📄 Know about my experiences [My_Portfolio](https://kamal-nayan-dev-portfolio.vercel.app/)
 
 
 <img style=" margin-bottom: 25px;" align="right" alt="code" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
