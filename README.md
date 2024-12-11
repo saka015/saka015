@@ -7,7 +7,7 @@
 
 - 📫 Connect with me **skn8454@gmail.com**
 
-- 📄 Know about my experiences [My_Portfolio]((https://thekamalnayan.live/))
+- 📄 Know about my experiences [My_Portfolio](https://thekamalnayan.live/)
 
 - <img style=" margin-bottom: 25px;" align="right" alt="code" width="800" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 
