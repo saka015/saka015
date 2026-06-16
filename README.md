@@ -63,4 +63,4 @@ B.Tech Computer Science · Punjab Technical University · May 2025
 
 <img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=e1e4e8&height=2&section=header&reversal=false">
 
-📫 **skn8454@gmail.com** · [LinkedIn](https://linkedin.com/in/saka015) · [Portfolio](https://thekamalnayan.live) · [LeetCode](https://leetcode.com/saka015)
+📫 **skn8454@gmail.com** · [LinkedIn](https://linkedin.com/in/saka015) · [Portfolio](https://thekamalnayan.xyz) · [LeetCode](https://leetcode.com/saka015)
