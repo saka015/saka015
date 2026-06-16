@@ -3,7 +3,6 @@
 **Building production systems that handle real scale.**  
 Currently @ [Maxtron AI](https://maxtron.ai) · Open to high-impact remote roles
 
----
 
 ### What I ship
 
@@ -14,7 +13,6 @@ Currently @ [Maxtron AI](https://maxtron.ai) · Open to high-impact remote roles
 | ⚡ **Performance work** | Redis caching + query optimization → 35% faster API response times under growing traffic |
 | 📝 **AI form builder** | NLP → production form in one prompt · 70% less manual config · shipped at ReallyBrief |
 
----
 
 ### Pinned: things worth looking at
 
@@ -26,7 +24,7 @@ P2P marketplace where students teach & monetize skills. UPI escrow payments, col
 Role-based access control with secure auth, permission management, admin dashboard, email verification, account recovery. Clean architecture, production-ready patterns.  
 `React` `Node.js` `MongoDB` `JWT`
 
----
+
 
 ### Stack
 
@@ -39,7 +37,6 @@ AI/ML         LangChain · RAG · pgvector · OpenAI API
 Infra         AWS (EC2 · ECS · RDS) · Docker · Kubernetes · GitHub Actions
 ```
 
----
 
 ### Numbers
 
@@ -47,12 +44,11 @@ Infra         AWS (EC2 · ECS · RDS) · Docker · Kubernetes · GitHub Actions
 - 📦 Shipped payment + KYC infra serving **15K+ users** in production
 - 📉 **40% support load reduction** via RAG pipeline · **35% API speedup** via caching
 
----
 
 ### Experience
 
 **Full Stack Engineer** · Maxtron AI · Jan 2025 – Present  
-Fintech (Wavemoney), real estate tokenization (Glofi), investment (Gro8) — owning features end to end.
+AI-first product company — owning backend, infra, and AI integrations across fintech and real estate platforms end to end.
 
 **Full Stack Engineer Intern** · ReallyBrief · Aug–Nov 2024  
 SaaS form builder with AI generation engine, subscription billing, and webhook security.
@@ -60,12 +56,11 @@ SaaS form builder with AI generation engine, subscription billing, and webhook s
 **Full Stack Developer Intern** · RevoltronX · Mar–Aug 2024  
 News publishing platform — real-time content workflows, multi-role access, 45% faster page loads.
 
----
 
 ### Education
 
 B.Tech Computer Science · Punjab Technical University · May 2025
 
----
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=e1e4e8&height=2&section=header&reversal=false">
 
-📫 **skn8454@gmail.com** · [LinkedIn](https://linkedin.com/in/saka015) · [Portfolio](https://thekamalnayan.xyz) · [LeetCode](https://leetcode.com/saka015)
+📫 **skn8454@gmail.com** · [LinkedIn](https://linkedin.com/in/saka015) · [Portfolio](https://thekamalnayan.live) · [LeetCode](https://leetcode.com/saka015)
