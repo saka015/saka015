@@ -1,128 +1,71 @@
-# Kamal Nayan
+# Kamal Nayan — Full Stack & AI Engineer
 
-Full Stack Engineer building scalable SaaS, AI, and fintech products.
-
-Currently engineering production systems at Maxtron AI, where I work across backend architecture, payments, RBAC, AI workflows, cloud infrastructure, and platform scalability.
-
-## What I Do
-
-- Build full-stack SaaS products
-- Design scalable backend systems
-- Develop AI-powered applications using RAG and LLMs
-- Architect role-based multi-tenant platforms
-- Deploy and manage cloud infrastructure on AWS
-
-## Technical Stack
-
-### Frontend
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
-- Redux Toolkit
-
-### Backend
-- Node.js
-- NestJS
-- Express
-- REST APIs
-- GraphQL
-
-### Databases
-- PostgreSQL
-- MongoDB
-- Redis
-- Prisma
-- Drizzle
-
-### Infrastructure
-- AWS
-- Docker
-- Kubernetes
-- GitHub Actions
-- CI/CD
-
-### AI
-- OpenAI
-- LangChain
-- RAG Pipelines
-- Vector Databases
-- Agent Workflows
+**Building production systems that handle real scale.**  
+Currently @ [Maxtron AI](https://maxtron.ai) · Open to high-impact remote roles
 
 ---
 
-## Experience
+### What I ship
 
-### Full Stack Engineer · Maxtron AI
-Jan 2025 - Present
-
-- Built fintech onboarding and payment systems serving 15,000+ users
-- Reduced API latency by 35% through database optimization and caching
-- Developed AI-powered support systems using RAG and vector search
-- Implemented enterprise-grade RBAC across multiple platforms
-
-### Full Stack Engineer Intern · ReallyBrief
-
-- Built AI-powered form generation SaaS
-- Developed subscription billing and payment infrastructure
-- Shipped production-ready workflow automation systems
-
-### Full Stack Developer Intern · RevoltronX
-
-- Built a multi-role publishing platform
-- Improved platform performance by 45%
+| | |
+|---|---|
+| 🏦 **Fintech platform** | KYC onboarding, card lifecycle, payment flows — 15K+ users, role-based access across multiple apps |
+| 🤖 **RAG support assistant** | Vector search pipeline that cut repetitive support load by 40% in production |
+| ⚡ **Performance work** | Redis caching + query optimization → 35% faster API response times under growing traffic |
+| 📝 **AI form builder** | NLP → production form in one prompt · 70% less manual config · shipped at ReallyBrief |
 
 ---
 
-## Selected Projects
+### Pinned: things worth looking at
 
-### PeerSkill
-Peer-to-peer skill marketplace connecting students with mentors.
+**[PeerSkill](https://peerskill.live)** · [`github`](https://github.com/saka015/peerskill)  
+P2P marketplace where students teach & monetize skills. UPI escrow payments, college email verification, in-app video sessions, dual-rating system. Full booking-to-payout loop, built solo.  
+`Next.js` `NestJS` `PostgreSQL` `Redis`
 
-**Stack:** Next.js, NestJS, PostgreSQL
-
-Features:
-- Escrow payments
-- College verification
-- Live sessions
-- Booking workflows
-- Ratings and reviews
-
-### Multi-Role RBAC Platform
-
-Production-grade authentication and authorization system.
-
-**Stack:** React, Node.js, MongoDB
-
-Features:
-- Fine-grained permissions
-- User lifecycle management
-- Admin dashboard
-- Secure authentication
+**Multi-Role RBAC Platform** · [`github`](https://github.com/saka015/rbac-platform)  
+Role-based access control with secure auth, permission management, admin dashboard, email verification, account recovery. Clean architecture, production-ready patterns.  
+`React` `Node.js` `MongoDB` `JWT`
 
 ---
 
-## Achievements
+### Stack
 
-- Solved 850+ DSA problems
-- 1600+ LeetCode Rating
-- Top 1500 Global Rank in LeetCode Biweekly Contest 129
-
----
-
-## Current Focus
-
-- Distributed systems
-- AI agents
-- Event-driven architecture
-- System design
-- Cloud infrastructure
+```
+Languages     TypeScript · JavaScript · Python · SQL
+Backend       NestJS · Node.js · Express · GraphQL · REST
+Frontend      Next.js · React · Tailwind CSS
+Data          PostgreSQL · MongoDB · Redis · Prisma ORM
+AI/ML         LangChain · RAG · pgvector · OpenAI API
+Infra         AWS (EC2 · ECS · RDS) · Docker · Kubernetes · GitHub Actions
+```
 
 ---
 
-## Connect
+### Numbers
 
-- Portfolio: thekamalnayan.live
-- LinkedIn: linkedin.com/in/saka015
-- GitHub: github.com/saka015
-- Email: skn8454@gmail.com
+- 🏆 LeetCode **1600+ rating** · top 1,500 / 25K+ globally in Biweekly Contest 129 · [850+ problems solved](https://leetcode.com/saka015)
+- 📦 Shipped payment + KYC infra serving **15K+ users** in production
+- 📉 **40% support load reduction** via RAG pipeline · **35% API speedup** via caching
+
+---
+
+### Experience
+
+**Full Stack Engineer** · Maxtron AI · Jan 2025 – Present  
+Fintech (Wavemoney), real estate tokenization (Glofi), investment (Gro8) — owning features end to end.
+
+**Full Stack Engineer Intern** · ReallyBrief · Aug–Nov 2024  
+SaaS form builder with AI generation engine, subscription billing, and webhook security.
+
+**Full Stack Developer Intern** · RevoltronX · Mar–Aug 2024  
+News publishing platform — real-time content workflows, multi-role access, 45% faster page loads.
+
+---
+
+### Education
+
+B.Tech Computer Science · Punjab Technical University · May 2025
+
+---
+
+📫 **skn8454@gmail.com** · [LinkedIn](https://linkedin.com/in/saka015) · [Portfolio](https://thekamalnayan.xyz) · [LeetCode](https://leetcode.com/saka015)
