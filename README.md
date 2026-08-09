@@ -1,7 +1,7 @@
 # Kamal Nayan — Full Stack & AI Engineer
 
 **Building production systems that handle real scale.**  
-Currently @ [Maxtron AI](https://maxtron.ai) · Open to high-impact remote roles
+Currently @ [Manufac](https://www.manufacanalytics.com/) · Open to high-impact remote roles
 
 
 ### What I ship
