@@ -46,10 +46,10 @@ Role-based access control system with secure authentication, permission manageme
 
 ## Experience
 
-**Software Development Engineer I** · Manufac · [Month Year] – Present
+**Software Development Engineer I** · Manufac · [Aug 2026] – Present
 Full stack and AI engineering across backend services, data-driven applications, and cloud infrastructure.
 
-**Full Stack Engineer** · Maxtron AI · Jan 2025 – [Month Year]
+**Full Stack Engineer** · Maxtron AI · Jan 2025 – [July 2026]
 Owned backend, infrastructure, and AI integrations end to end across production fintech, healthcare, payments, and real estate platforms.
 
 **Full Stack Engineer Intern** · ReallyBrief · Aug 2024 – Nov 2024
@@ -58,14 +58,4 @@ Worked on a SaaS form builder, including an AI generation engine, subscription b
 **Full Stack Developer Intern** · RevoltronX · Mar 2024 – Aug 2024
 Contributed to a news publishing platform with real-time content workflows and multi-role access, improving page load times by 45%.
 
----
 
-## Education
-
-**B.Tech, Computer Science** · Punjab Technical University · May 2025
-
----
-
-## Problem Solving
-
-LeetCode rating of 1600+ with 850+ problems solved. Ranked in the top 1,500 of 25K+ participants in Biweekly Contest 129.
